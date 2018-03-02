@@ -21,6 +21,18 @@ The Orion360™ SDK Basic can be used for iOS projects using Swift and/or Object
 
 Before using the SDK, read the [Licence Agreement](https://github.com/FinweLtd/OrionSDK_iOS_Prd/blob/master/Finwe_Orion360_SDK_Basic_Evaluation_Kit_License_en_US-20161212_1500.pdf).
 
+Table of Contents
+-----------------
+1. [Introduction](#introduction)
+2. [Overview](#overview)
+3. [Prerequisites](#prerequisites)
+4. [Supported Devices](#supported-devices)
+5. [Installation](#installation)
+6. [CocoaPods installation guide](#cocoapods-installation-guide)
+7. [Adding Android permissions](#adding-android-permissions)
+8. [Acquiring Orion360 SDK license file](#acquiring-orion360-sdk-license-file)
+9. [Running the application](#running-the-application)
+10. [What next?](#what-next)
 
 # **Table of Contents**
 
