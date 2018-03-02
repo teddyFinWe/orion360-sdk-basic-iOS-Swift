@@ -513,7 +513,7 @@ Save the changes and click the Run button![](https://lh6.googleusercontent.com/h
 
 ![](https://lh4.googleusercontent.com/iWvqLTf2PhrmmOoUdsjDC08rd0XVMEuvPnZHCkhO_0Dvf5yj6nWKvVJZZ4BGRcmxRBGjAC-K9sQGaBH0zTveTpCs7svd9Frz-BpIuNKXNSl0V7IPfZeo_tkhpf0q46QdJL25xjJZ)
 
-Completed version of OrionImageViewer can be downloaded here.
+Completed version of OrionImageViewer can be downloaded [here](https://github.com/teddyFinWe/orion360-sdk-basic-iOS-Swift.git).
 
 ## Next Steps
 
