@@ -320,9 +320,7 @@ After UIViewController, add a comma (,) and  Orion1ViewDelegate and initialize O
 And license file is given as follows:
 
 	let path: String? = Bundle.main.path(forResource:"Orion360\_SDK\_Basic\_iOS\_Trial_finwe.OrionSimpleVideoPlayer.lic", ofType: nil)  
-  
-
-let licenseUrl = URL(fileURLWithPath: path ?? "")
+  	let licenseUrl = URL(fileURLWithPath: path ?? "")
 
 ## Obtaining License File
 
