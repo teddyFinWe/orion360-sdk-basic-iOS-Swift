@@ -24,17 +24,17 @@ Before using the SDK, read the [Licence Agreement](https://github.com/FinweLtd/O
 
 # **Table of Contents**
 
-1. [Introduction](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.glca218tygag)
+1. [Introduction](#introduction)
 
-2. [Overview](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.inn2tcesim8i)
+2. [Overview](#Overview)
 
-3. [Prerequisites](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.lggsd0crigd8)
+3. [Prerequisites](#Prerequisites)
 
-4. [Supported Devices](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.7dd6e8ybb81q)
+4. [Supported Devices](#Supported Devices)
 
-5. [Installation](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.v8i743ix5hnj)
+5. [Installation](#Installation)
 
-	5.1 [CocoaPods installation guide:](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.91do7tar8ml1)
+	5.1 [CocoaPods installation guide:](#CocoaPods installation guide:)
 
 	[Step 1. Getting started with Xcode and creating new project](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.zn7ew7om0ln)
 
