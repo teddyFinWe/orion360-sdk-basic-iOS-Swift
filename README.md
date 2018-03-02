@@ -284,7 +284,7 @@ Notice: Whenever there will be a new update to the Orion360 SDK, go back to Step
 
 	pod update ↵
 
-## Working on OrionImageViewer.xcworkspace
+## Working on OrionImageViewer xcworkspace
 
 After opening OrionImageViewer.xcworkspace you can see the SDK is successfully added to our project (see Figure 11).
 
