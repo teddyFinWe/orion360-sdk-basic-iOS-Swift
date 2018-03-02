@@ -449,7 +449,7 @@ Figure 26. Project structure after license file added
 
   
 
-## Step 11. Let's start to have fun with coding
+## Let's start to have fun with coding
 Swift
 
 	ViewController.swift
@@ -516,7 +516,7 @@ The above example displays image from URL, if you want to show an image from a l
 
   
 
-## Step 12. Run OrionImageViewer
+## Run OrionImageViewer
 
 The Scheme pop-up menu lets you choose which simulator or device you’d like to run your app on. As seen on Figure 27 iPhone 8 Plus Simulator, not an iOS device.
 
