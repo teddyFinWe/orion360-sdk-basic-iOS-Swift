@@ -43,46 +43,6 @@ Table of Contents
 18. [Run OrionImageViewer](#run-orionimageviewer)
 19. [Next Steps](#next-steps)
 
-# **Table of Contents**
-
-1. [Introduction](#introduction)
-
-2. [Overview](#overview)
-
-3. [Prerequisites](#prerequisites)
-
-4. [Supported Devices](#supported-devices)
-
-5. [Installation](#installation)
-
-	5.1 [CocoaPods installation guide:](#cocoapods-installation-guide:)
-
-	[Step 1. Getting started with Xcode and creating new project](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.zn7ew7om0ln)
-
-	[Step 2. Getting started with Podfile](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.ouq0sk4m63hd)
-
-	[Step 3. Create Podfile](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.2c6jya7oxxpp)
-
-	[Step 4. Open Podfile in edit mode](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.ymwi7pxqvl12)
-
-	[Step 5. Edit the Podfile](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.rkot26r9d9xg)
-
-	[Step 6. Adding Orion360 SDK to our project](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.d3kmsoeluygq)
-
-	[Step 7. Start new Xcode session](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.yv741ogzdtln)
-
-	[Step 8. Working on OrionImageViewer.xcworkspace](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.udqxffhp1l1q)
-
-	[Step 9. Objective-C bridging header for Swift projects](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.kaiirsdp69lg)
-
-	[Step 10. Obtaining License File](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.xt816x8483e)
-
-	[Step 11. Let's start to have fun with coding](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.1y4dtgupuycl)
-
-	[Step 12. Run OrionImageViewer](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.qoczb07ze0fl)
-
-6. [Next Steps](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.4ixng01zzs4d)
-
 
 
 ## Introduction
