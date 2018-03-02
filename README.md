@@ -126,7 +126,7 @@ On terminal type, the following command and press Return key.
 Note: Your machine might ask for your system password, type your password and press Return key. (Tip: you will not be able to see what you are typing while entering your password, make sure you press Return key after you finish entering your password). If the correct password is given CocoaPods will start the process of installation.
 
 You can read more about CocoaPods and installation guide on: [http://guides.cocoapods.org/using/getting-started.html#installation](http://guides.cocoapods.org/using/getting-started.html#installation)
-#### Step 1. Getting started with Xcode and creating new project
+## Getting started with Xcode and creating new project
 
 ![](https://lh5.googleusercontent.com/tYMGkEVzmRRwHjXilPdEepW283bX_ViaEAkPZNIrpcRntMst5RCKTpom9v0wVneYqeJeBBotUudEbMZAI3ux11V612r9wr01BHWDtv7IOntPe-gOqryg5KAwmCiWM3zSdkKEoFTj)
 
@@ -194,13 +194,13 @@ Figure 5. OrionImageViewer’s project workspace
 
 As seen in Figure 5, CocoaPods is not yet added to our project. Step 2 of this documentation will guide you through CocoaPods and SDK installation.
 
-#### Step 2. Getting started with Podfile
+## Getting started with Podfile
 
 Go to terminal and navigate to project directory (OrionImageViewer). You can navigate using two ways. Either by navigating to project directory using cd \[type directory name\] or simply type cd and drag & drop your project directory on terminal and terminal will insert directory path for you, then press Return key.
 
 	cd <drag and drop your project folder> ↵
 
-#### Step 3. Create Podfile
+## Create Podfile
 
 Type pod init and press Return key to create empty pod file for your project directory. Podfile is what you use to specify all the required libraries for your project.
 
@@ -212,7 +212,7 @@ After running pod init Podfile is added to your project directory.
 
 Figure 6. OrionImageViewer’s directory after pod init
 
-#### Step 4. Open Podfile in edit mode
+## Open Podfile in edit mode
 
 Type the following command on the terminal to open Podfile in edit mode.
 
@@ -224,7 +224,7 @@ After opening the Podfile, you Podfile contents will look like Figure 7
 
 Figure 7. Podfile content before being edited
 
-#### Step 5. Edit the Podfile
+## Edit the Podfile
 
 Edit the Podfile content as follows to Install Orion360 SDK Basic for iOS:
 
@@ -239,7 +239,7 @@ Edit the Podfile content as follows to Install Orion360 SDK Basic for iOS:
 	pod 'OrionSDK'  
 	end
 
-#### Step 6. Adding Orion360 SDK to our project
+## Adding Orion360 SDK to our project
 
 After saving the updates you made on Podfile, go to terminal and type the following command and press Return key (↵)
 
@@ -259,7 +259,7 @@ Open project directory and you will see OrionImageViewer.xcworkspace added (see 
 
 Figure 9. Project directory’s content after successful pod installation.
 
-#### Step 7. Start new Xcode session
+## Start new Xcode session
 
 After successful pod installation, on the terminal you will see:
 
@@ -275,7 +275,7 @@ Notice: Whenever there will be a new update to the Orion360 SDK, go back to Step
 
 	pod update ↵
 
-#### Step 8. Working on OrionImageViewer.xcworkspace
+## Working on OrionImageViewer.xcworkspace
 
 After opening OrionImageViewer.xcworkspace you can see the SDK is successfully added to our project (see Figure 11).
 
@@ -307,7 +307,7 @@ For Swift projects you need to create bridging header. Please follow Step 9. (Fo
 
   
 
-#### Step 9. Objective-C bridging header for Swift projects
+## Objective-C bridging header for Swift projects
 
 Create bridging header as follows:
 
@@ -354,7 +354,7 @@ And license file is given as follows:
 
 let licenseUrl = URL(fileURLWithPath: path ?? "")
 
-#### Step 10. Obtaining License File
+## Obtaining License File
 
 To show 360° content you need a license file that must be added to your app project's resources without any modification. Failure to do so will result to black video player screen and currently, it doesn't produce any warning messages.
 
@@ -440,7 +440,7 @@ Figure 26. Project structure after license file added
 
   
 
-#### Step 11. Let's start to have fun with coding
+## Step 11. Let's start to have fun with coding
 Swift
 
 	ViewController.swift
@@ -507,7 +507,7 @@ The above example displays image from URL, if you want to show an image from a l
 
   
 
-#### Step 12. Run OrionImageViewer
+## Step 12. Run OrionImageViewer
 
 The Scheme pop-up menu lets you choose which simulator or device you’d like to run your app on. As seen on Figure 27 iPhone 8 Plus Simulator, not an iOS device.
 
