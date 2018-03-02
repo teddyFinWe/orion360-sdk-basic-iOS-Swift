@@ -30,7 +30,6 @@ Table of Contents
 5. [Installation](#installation)
 6. [CocoaPods installation guide](#cocoapods-installation-guide)
 7. [Getting started with Xcode and creating new project](#getting-started-with-xcode-and-creating-new-project)
-
 8. [Getting started with Podfile](#getting-started-with-podfile)
 9. [Create Podfile](#create-podfile)
 10.[Open Podfile in edit mode](#open-podfile-in-edit-mode)
