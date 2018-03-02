@@ -26,15 +26,15 @@ Before using the SDK, read the [Licence Agreement](https://github.com/FinweLtd/O
 
 1. [Introduction](#introduction)
 
-2. [Overview](#Overview)
+2. [Overview](overview)
 
-3. [Prerequisites](#Prerequisites)
+3. [Prerequisites](#prerequisites)
 
-4. [Supported Devices](#Supported Devices)
+4. [Supported Devices](#supported-devices)
 
-5. [Installation](#Installation)
+5. [Installation](#installation)
 
-	5.1 [CocoaPods installation guide:](#CocoaPods installation guide:)
+	5.1 [CocoaPods installation guide:](#cocoaPods-installation-guide:)
 
 	[Step 1. Getting started with Xcode and creating new project](https://docs.google.com/document/d/1GiLq9oQdBa75QJGvyybIJcqdieqMtEZ1YaiGZouaUVw/edit?pli=1#heading=h.zn7ew7om0ln)
 
