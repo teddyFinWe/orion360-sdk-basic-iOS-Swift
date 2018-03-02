@@ -39,7 +39,7 @@ Table of Contents
 14. [Working on OrionImageViewer xcworkspace](#working-on-orionimageviewer-xcworkspace)
 15. [Objective-C bridging header for Swift projects](#objective-c-bridging-header-for-swift-projects)
 16. [Obtaining License File](#obtaining-license-file)
-17. [Let's start to have fun with coding](#Let-s-start-to-have-fun-with-coding)
+17. [Let us start to have fun with coding](#Let-us-start-to-have-fun-with-coding)
 18. [Run OrionImageViewer](#run-orionimageviewer)
 19. [Next Steps](#next-steps)
 
@@ -449,7 +449,7 @@ Figure 26. Project structure after license file added
 
   
 
-## Let's start to have fun with coding
+## Let us start to have fun with coding
 Swift
 
 	ViewController.swift
