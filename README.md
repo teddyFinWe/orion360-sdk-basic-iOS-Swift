@@ -37,10 +37,10 @@ Table of Contents
 12. [Adding Orion360 SDK to our project](#adding-orion360-sdk-to-our-project)
 13. [Start new Xcode session](#start-new-xcode-session)
 14. [Working on OrionImageViewer xcworkspace](#working-on-orionimageviewer-xcworkspace)
-15. [Step 9. Objective-C bridging header for Swift projects](#overview)
+15. [Objective-C bridging header for Swift projects](#objective-c-bridging-header-for-swift-projects)
 16. [Obtaining License File](#obtaining-license-file)
-17. [Let's start to have fun with coding](#overview)
-18. [Run OrionImageViewer](#overview)
+17. [Let's start to have fun with coding](#Let-s-start-to-have-fun-with-coding)
+18. [Run OrionImageViewer](#run-orionimageviewer)
 19. [Next Steps](#next-steps)
 
 # **Table of Contents**
