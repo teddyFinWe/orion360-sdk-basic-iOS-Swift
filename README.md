@@ -34,13 +34,13 @@ Table of Contents
 9. [Create Podfile](#create-podfile)
 10. [Open Podfile in edit mode](#open-podfile-in-edit-mode)
 11. [Edit the Podfile](#edit-the-podfile)
-12. [Adding Orion360 SDK to our project](#adding-orion360-sdk-to-our project)
+12. [Adding Orion360 SDK to our project](#overview)
 13. [Start new Xcode session](#start-new-xcode-session)
-14. [Working on OrionImageViewer.xcworkspace](#working-on-orionimageviewer-xcworkspace)
-15. [Objective-C bridging header for Swift projects](#objectiveC-bridging-header-for-swift-projects)
+14. [Working on OrionImageViewer xcworkspace](#overview)
+15. [Step 9. Objective-C bridging header for Swift projects](#overview)
 16. [Obtaining License File](#obtaining-license-file)
-17. [Let's start to have fun with coding](#lets-start-to-have-fun-with-coding)
-18. [Run OrionImageViewer](#run-orionimageviewer)
+17. [Let's start to have fun with coding](#overview)
+18. [Run OrionImageViewer](#overview)
 19. [Next Steps](#next-steps)
 
 # **Table of Contents**
