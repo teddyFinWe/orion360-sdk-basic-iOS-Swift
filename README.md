@@ -29,10 +29,14 @@ Table of Contents
 4. [Supported Devices](#supported-devices)
 5. [Installation](#installation)
 6. [CocoaPods installation guide](#cocoapods-installation-guide)
-7. [Adding Android permissions](#adding-android-permissions)
-8. [Acquiring Orion360 SDK license file](#acquiring-orion360-sdk-license-file)
-9. [Running the application](#running-the-application)
-10. [What next?](#what-next)
+	6.1. [Getting started with Xcode and creating new project](#getting-started-with-xcode-and-creating-new-project)
+
+
+6.1. [Getting started with Podfile](#getting-started-with-podfile)
+6.3. [Create Podfile](#create-podfile)
+6.4. [Open Podfile in edit mode](#open-podfile-in-edit-mode)
+	6.5. [Open Podfile in edit mode](#open-podfile-in-edit-mode)
+7. [Next Steps](#next-steps)
 
 # **Table of Contents**
 
