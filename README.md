@@ -29,14 +29,20 @@ Table of Contents
 4. [Supported Devices](#supported-devices)
 5. [Installation](#installation)
 6. [CocoaPods installation guide](#cocoapods-installation-guide)
-	6.1. [Getting started with Xcode and creating new project](#getting-started-with-xcode-and-creating-new-project)
+7. [Getting started with Xcode and creating new project](#getting-started-with-xcode-and-creating-new-project)
 
-
-6.1. [Getting started with Podfile](#getting-started-with-podfile)
-6.3. [Create Podfile](#create-podfile)
-6.4. [Open Podfile in edit mode](#open-podfile-in-edit-mode)
-	6.5. [Open Podfile in edit mode](#open-podfile-in-edit-mode)
-7. [Next Steps](#next-steps)
+8. [Getting started with Podfile](#getting-started-with-podfile)
+9. [Create Podfile](#create-podfile)
+10.[Open Podfile in edit mode](#open-podfile-in-edit-mode)
+11.[Edit the Podfile](#edit-the-podfile)
+12.[Adding Orion360 SDK to our project](#adding-orion360-sdk-to-our project)
+13.[Start new Xcode session](#start-new-xcode-session)
+14.[Working on OrionImageViewer.xcworkspace](#working-on-orionimageviewer-xcworkspace)
+15.[Objective-C bridging header for Swift projects](#objectiveC-bridging-header-for-swift-projects)
+16.[Obtaining License File](#obtaining-license-file)
+17.[Let's start to have fun with coding](#lets-start-to-have-fun-with-coding)
+18.[Run OrionImageViewer](#run-orionimageviewer)
+19. [Next Steps](#next-steps)
 
 # **Table of Contents**
 
