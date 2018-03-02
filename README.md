@@ -50,7 +50,7 @@ Table of Contents
 The Orion360™ SDK Pro for iOS is a developer library to easily build and implement mobile applications that utilize immersive 360° video and 360° image content.
 
 360° video/image is a special type of content that covers the complete surroundings of the camera. Using our SDK, 360° content can be included into mobile apps easily.
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+
 
 ## Overview
 
