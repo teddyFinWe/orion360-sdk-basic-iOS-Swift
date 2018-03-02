@@ -47,18 +47,19 @@ Table of Contents
 
 ## Introduction
 
-The Orion360™ SDK Pro for iOS is a developer library to easily build and implement mobile applications that utilize immersive 360° video and 360° image content.
+The Orion360™ SDK Basic for iOS is a developer library to easily build and implement mobile applications that utilize immersive 360° video and 360° image content.
 
 360° video/image is a special type of content that covers the complete surroundings of the camera. Using our SDK, 360° content can be included into mobile apps easily.
 
 
+
 ## Overview
 
-The Orion360 SDK Pro for iOS provides a new iOS library that can be included to 3rd party iOS apps and that greatly simplifies building an app that supports 360° video/image content.
+The Orion360 SDK Basic for iOS provides a new iOS library that can be included to 3rd party iOS apps and that greatly simplifies building an app that supports 360° video/image content.
 
 Using our SDK showing a single 360° video/image from the remote URL or from local file system requires only a few lines of code. This is achieved by providing a 360° video/image player component which enables the player to be simply dropped into a UI layout and initialized with a handler to 360° video/image.
 
-In short, Orion360 contains one main component “OrionView” and its purpose is to view and play 360-degree content.
+In short, Orion360 contains one main component “Orion1View” and its purpose is to view and play 360-degree content. 
 
 ## Prerequisites
 
